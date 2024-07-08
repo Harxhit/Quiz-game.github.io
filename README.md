@@ -5,5 +5,5 @@ Created an interactive Python quiz application to test users' knowledge in vario
 Technologies Used :
 Python, OOP (Object-Oriented Programming), functions, loops.
 
-To get questions visit here or you can use chat gpt - https://opentdb.com/
+To get questions visit here or you can use chat gpt or any Ai - https://opentdb.com/
 
